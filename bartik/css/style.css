@@ -1639,3 +1639,14 @@ div.admin-panel .description {
 
 body {font-family: 'Libre Baskerville', serif;}
 h1, h2, h3, h4, h5 {font-family: 'Lato', sans-serif;}
+a {text-decoration:none;}
+a:hover {color:#0074b8;text-decoration:none;}
+
+header {display:flex;padding:25px 0;border-bottom:1px solid rgba(0,0,0,0.1);justify-content:space-evenly;}
+h1 a {color:#000;font-size:1.6em;}
+h1 a:hover {color:#000;}
+
+header .menu {flex-basis:60%;}
+header ul {list-style:none;padding-left:0;}
+header ul li {display:inline-block;padding:0;margin:0;}
+header ul li a {padding:10px 25px;border-right:1px solid rgba(0,0,0,0.1);color:#000;}
