@@ -86,7 +86,20 @@
  */
 ?>
 <div id="page-wrapper"><div id="page">
-
+  <header>
+    <div class="logo">
+      <h1><a href="https://ariasmariap.com" target="_blank">ariasmariap, php in progress</a></h1>
+    </div>
+    <div class="menu">
+      <ul>
+        <li><a href="https://ariasmariap.com/test/" target="_blank">about</a></li>
+        <li><a href="https://ariasmariap.com/" target="_blank">blog</a></li>
+        <li><a href="https://ariasmariap.com/presenting/" target="_blank">presenting</a></li>
+        <li><a href="https://ariasmariap.com/writing/" target="_blank">writing</a></li>
+        <li><a href="https://ariasmariap.com/contact/" target="_blank">contact</a></li>
+      </ul>
+    </div>
+  </header>
 
   <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
 
