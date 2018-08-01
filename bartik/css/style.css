@@ -1643,6 +1643,7 @@ a {text-decoration:none;}
 a:hover {color:#0074b8;text-decoration:none;}
 
 header {display:flex;padding:25px 0;border-bottom:1px solid rgba(0,0,0,0.1);justify-content:space-evenly;}
+header .wrapper {max-width:940px;margin:0 auto;}
 h1 a {color:#000;font-size:1.6em;}
 h1 a:hover {color:#000;}
 
