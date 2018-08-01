@@ -87,11 +87,6 @@
 ?>
 <div id="page-wrapper"><div id="page">
 
-  
-
-
-  </div></div> <!-- /.section, /#header -->
-
 
   <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
 
