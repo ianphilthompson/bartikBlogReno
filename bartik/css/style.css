@@ -1672,10 +1672,8 @@ header ul li:last-child a {border-right:none;}
   header h1 {text-align:center;}
   header h1 a {font-size:1em;line-height:1.1em;}
   input {width:98% !important;}
-
 }
 
 @media (max-width:1139px) {
 header .wrapper {padding:15px 0;}
-
 }
