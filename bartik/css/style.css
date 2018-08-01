@@ -1658,7 +1658,7 @@ header ul li:last-child a {border-right:none;}
 
 #header div.section, #featured div.section, #messages div.section, #main, #triptych, #footer-columns, #footer {width:1140px;}
 
-#page-wrapper {border:none;}
+#page-wrapper {background:none !important;;}
 .one-sidebar #content {width:100%;}
 
 #page-wrapper #footer-wrapper {background:none;border-top:1px solid rgba(0,0,0,0.1);color:#000;}
