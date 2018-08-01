@@ -54,7 +54,6 @@ samp,
 var {
   padding: 0 0.4em;
   font-size: 0.857em;
-  font-family: Menlo, Consolas, "Andale Mono", "Lucida Console", "Nimbus Mono L", "DejaVu Sans Mono", monospace, "Courier New";
 }
 code {
   background-color: #f2f2f2;
@@ -106,7 +105,6 @@ body,
 #site-slogan,
 .ui-widget,
 .comment-form label {
-  font-family: Georgia, "Times New Roman", Times, serif;
 }
 #header,
 #footer-wrapper,
@@ -121,13 +119,11 @@ div.meta,
 p.comment-time,
 table,
 .breadcrumb {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 input,
 textarea,
 select,
 a.button {
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 }
 
 /* ------------------ Reset Styles ------------------ */
@@ -951,7 +947,6 @@ ul.links {
 /* --------------- System Tabs  --------------- */
 
 .tabs {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 20px;
 }
 .tabs ul.primary {
@@ -1174,7 +1169,6 @@ fieldset legend {
   display: block;
   height: 2em;
   left: -1px; /* LTR */
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
   line-height: 2;
   padding: 0;
   position: absolute;
@@ -1639,3 +1633,9 @@ div.admin-panel .description {
 #footer-wrapper .poll .bar .foreground {
   background-color: #ddd;
 }
+
+/* Let's blow this to bits */
+
+
+body {font-family: 'Libre Baskerville', serif;}
+h1, h2, h3, h4, h5 {font-family: 'Lato', sans-serif;}

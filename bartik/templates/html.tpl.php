@@ -9,9 +9,9 @@
 
   <!-- Latest compiled and minified CSS -->
 
-  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato|Libre+Baskerville" rel="stylesheet">
   <?php print $styles; ?>
-  <?php print $scripts; ?>  
+  <?php print $scripts; ?>
 </head>
 
 <body class="<?php print $classes; ?>" <?php print $attributes;?>>
