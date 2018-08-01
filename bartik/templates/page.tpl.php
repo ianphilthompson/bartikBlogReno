@@ -112,9 +112,9 @@
       <a id="main-content"></a>
       <?php print render($title_prefix); ?>
       <?php if ($title): ?>
-        <h1 class="title" id="page-title">
+        <h2 class="title" id="page-title">
           <?php print $title; ?>
-        </h1>
+        </h2>
       <?php endif; ?>
       <?php print render($title_suffix); ?>
       <?php if ($tabs): ?>
