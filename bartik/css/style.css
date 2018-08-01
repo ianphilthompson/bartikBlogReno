@@ -1671,7 +1671,7 @@ header ul li:last-child a {border-right:none;}
   header .logo {width:100%;}
   header h1 {text-align:center;}
   header h1 a {font-size:1em;line-height:1.1em;}
-  input {max-width:100%;}
+  input {width:98% !important;}
 
 }
 
